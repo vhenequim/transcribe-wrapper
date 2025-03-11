@@ -19,6 +19,7 @@ python main.py
 When prompted:
 
 - Enter the path to your video file
+- Enter language (e.g., 'en' for English, 'pt' for Portuguese, default: en)
 - Enter a name for the output file (will be saved in the 'results' folder)
 
 The transcription will be saved to a text file in the specified location.
